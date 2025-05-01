@@ -1,0 +1,14 @@
+name: seattle911
+channels:
+    - conda-forge
+dependencies:
+    - python=3.10
+    - pandas
+    - matplotlib
+    - seaborn
+    - jupyter
+    - numpy
+    - scikit-learn
+    - pip
+    - pip:
+          - meteostat
