@@ -17,10 +17,11 @@ This project analyzes 911 emergency call data from the Seattle Police Department
 
 4. **Predictive Modeling**  
    Develop models to predict emergency call volumes and locations based on time and weather conditions.
+   Determine call type based on the input of
 
 ---
 
-## 🗃️ Datasets
+## Datasets
 
 -   **Seattle Police 911 Call Data**  
     Source: [City of Seattle Open Data Portal](https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy)
@@ -30,7 +31,7 @@ This project analyzes 911 emergency call data from the Seattle Police Department
 
 ---
 
-## 🧪 Environment Setup
+## Environment Setup
 
 Install dependencies with [Mamba](https://mamba.readthedocs.io/en/latest/):
 
